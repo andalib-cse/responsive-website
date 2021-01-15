@@ -1,0 +1,65 @@
+body{
+    color : #363958;
+    font-family: 'Courier New', Courier, monospace;
+}
+header{
+    background-color: #FFFFF4;
+}
+p{
+    font-size: 20px;
+}
+
+.card-title{
+    font-size: 25px;
+}
+
+.logo_img{
+    width: 300px;
+}
+
+.custom_row{
+    background-color: white;
+    margin-bottom: 10px;
+    border-radius: 20px ;
+    box-shadow: 0 0 10px ;
+}
+
+.image_size img
+{
+    width: 100px;
+}
+.btn_color{
+
+
+}
+
+.icon_info{
+ padding-top: 15px;
+}
+
+.bag_cad{
+    border-radius: 20px !important;
+    border: 0 !important;
+}
+
+.bag_cad img{
+    background-color: whitesmoke;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.price_color{
+    color : #76C27E;
+    font-weight: 700;
+}
+.bag_card_footer{
+    border: 0 !important;
+    background-color: white !important;
+    border-radius: 20px !important;
+}
+
+.subscribe_bg_color{
+    height: 250px;
+    border-radius: 20px;
+    background-color:  #76C27E;
+}
